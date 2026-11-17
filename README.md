@@ -68,6 +68,18 @@ More links:
 
 ---
 
+## Also listed on
+
+Free third-party directories that currently link to Briefbox:
+
+| Directory | Status | Listing |
+| --- | --- | --- |
+| [DevElif](https://develif.com/) | Live (dofollow) | https://develif.com/s/briefbox |
+| [CurlShip](https://curlship.com/) | Live | https://curlship.com/l/11004 |
+| [QuestStack](https://queststack.io/) | Submitted (pending review) | https://queststack.io/tools/briefbox |
+
+---
+
 ## 中文简介
 
 **Briefbox** 是免费临时邮箱：无需注册登录，默认有效 **10 分钟**，到期后邮箱与邮件自动删除，**只收不发**，适合即刻接码。
