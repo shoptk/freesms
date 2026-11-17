@@ -1,78 +1,83 @@
-# Briefbox · 免费临时邮箱（即刻接码）
+# Briefbox · Free Temporary Email
 
-> **临时邮箱，即刻接码** — 免费一次性收件箱，有效期 10 分钟，无需注册登录。
+> **Temporary Email for Instant Verification** — Get a free disposable inbox. Valid for 10 minutes. No sign-up required.
 
-**立即打开：** [https://www.ddm99.xyz/](https://www.ddm99.xyz/)  
-中文版：[https://www.ddm99.xyz/zh/](https://www.ddm99.xyz/zh/) · English：[https://www.ddm99.xyz/en/](https://www.ddm99.xyz/en/)
-
----
-
-## 网站简介
-
-[Briefbox](https://www.ddm99.xyz/)（`www.ddm99.xyz`）是一个轻量的 **临时邮箱 / 一次性邮箱** 工具站。打开网页即可生成临时收件地址，把它填到注册页或验证表单，回到本站就能查看邮件并复制验证码。
-
-默认每个邮箱 **有效 10 分钟**，到期后邮箱与邮件会自动删除。服务 **只收不发**，界面支持中文与 English，适合不想暴露个人邮箱、又只需要短时接码的场景。
-
-站点定位一句话：**免登录的免费临时邮箱，专门用来即刻接收验证码。**
+**Open now:** [https://www.ddm99.xyz/](https://www.ddm99.xyz/)  
+English: [https://www.ddm99.xyz/en/](https://www.ddm99.xyz/en/) · 中文: [https://www.ddm99.xyz/zh/](https://www.ddm99.xyz/zh/)
 
 ---
 
-## 适合用来做什么
+## About
 
-- 注册试用服务时接收 **验证码 / 激活邮件**，减少主邮箱垃圾信
-- 临时下载、活动报名、一次性表单验证
-- 开发或测试时快速拿到验证邮件
-- 在不熟悉的网站上保护个人邮箱隐私
+[Briefbox](https://www.ddm99.xyz/) (`www.ddm99.xyz`) is a lightweight **temporary / disposable email** tool. Open the site to get a short-lived inbox address, paste it into any signup or verification form, then read the message here and copy the code.
 
-> 站点声明：仅供合法临时验证使用。邮件到期自动删除。
+Each mailbox lasts about **10 minutes** by default, then the address and messages are deleted automatically. The service is **receive-only** (you cannot send mail) and supports **English** and **Chinese**.
 
----
-
-## 怎么用（三步）
-
-1. 打开 [https://www.ddm99.xyz/zh/](https://www.ddm99.xyz/zh/)，生成临时邮箱  
-2. 点击 **复制地址**，粘贴到需要验证的网站  
-3. 在本站 Inbox 查看邮件，复制验证码  
-
-需要新地址点 **换一个**；没看到邮件就点 **刷新**。
+In one line: **a free, no-login temporary inbox for instant verification codes.**
 
 ---
 
-## 核心特点
+## Use cases
 
-| 特点 | 说明 |
+- Receive **verification codes / activation emails** without exposing your primary inbox
+- One-time downloads, event signups, and temporary form checks
+- Quick verification mail during development or testing
+- Extra privacy on unfamiliar websites
+
+> Site notice: for legitimate temporary verification only. Messages auto-delete after expiry.
+
+---
+
+## How it works
+
+1. Open [https://www.ddm99.xyz/en/](https://www.ddm99.xyz/en/) to generate a temporary address  
+2. Click **Copy address** and paste it into the form that needs verification  
+3. Read the message in the inbox and copy the code  
+
+Need a fresh address? Click **New address**. Missing mail? Click **Refresh**.
+
+---
+
+## Features
+
+| Feature | Details |
 | --- | --- |
-| 免费使用 | 免费一次性收件箱 |
-| 无需注册 | 免登录即可生成与使用 |
-| 10 分钟有效 | 到期后邮箱与邮件自动删除 |
-| 即刻接码 | 网页内直接查看邮件与验证码 |
-| 双语界面 | 中文 `/zh/`，英文 `/en/` |
-| 隐私向设计 | 附件内容不存储；仅接收邮件 |
+| Free | Free disposable inbox |
+| No account | Instant use without registration or login |
+| 10-minute TTL | Mailbox and messages auto-delete after expiry |
+| Instant codes | Read mail and copy verification codes in the browser |
+| Bilingual | English `/en/`, Chinese `/zh/` |
+| Privacy-minded | Attachment bodies are not stored; receive-only |
 
-更多说明：
+More links:
 
-- 中文常见问题：https://www.ddm99.xyz/zh/faq/
-- English FAQ：https://www.ddm99.xyz/en/faq/
-- 使用条款 / Terms：https://www.ddm99.xyz/zh/terms/
-- 隐私政策 / Privacy：https://www.ddm99.xyz/zh/privacy/
+- FAQ: https://www.ddm99.xyz/en/faq/
+- Terms: https://www.ddm99.xyz/en/terms/
+- Privacy: https://www.ddm99.xyz/en/privacy/
 
 ---
 
-## 快速入口
+## Quick links
 
-| 入口 | 链接 |
+| Page | URL |
 | --- | --- |
-| 官网（自动跳转） | https://www.ddm99.xyz/ |
-| 中文首页 | https://www.ddm99.xyz/zh/ |
+| Home (auto-redirect) | https://www.ddm99.xyz/ |
 | English | https://www.ddm99.xyz/en/ |
-| 中文 FAQ | https://www.ddm99.xyz/zh/faq/ |
+| 中文 | https://www.ddm99.xyz/zh/ |
+| FAQ | https://www.ddm99.xyz/en/faq/ |
 
 ---
 
-## Briefbox — Temporary Email for Instant Verification
+## 中文简介
 
-Briefbox is a free disposable inbox for instant verification. No sign-up. Each mailbox lasts about **10 minutes**, then the address and messages are deleted automatically. Receive-only — you cannot send mail.
+**Briefbox** 是免费临时邮箱：无需注册登录，默认有效 **10 分钟**，到期后邮箱与邮件自动删除，**只收不发**，适合即刻接码。
 
-**Try it now → [www.ddm99.xyz](https://www.ddm99.xyz/)**
+**立即使用 → [www.ddm99.xyz/zh/](https://www.ddm99.xyz/zh/)**
 
-Keywords: temporary email, disposable email, 临时邮箱, 一次性邮箱, 10分钟邮箱, 免费临时邮箱, 验证码邮箱, 临时电子邮件, burner email, anonymous inbox
+1. 打开网站生成临时邮箱  
+2. 点击 **复制地址**，粘贴到验证页面  
+3. 在本站查看邮件并复制验证码  
+
+需要新地址点 **换一个**；没看到邮件点 **刷新**。
+
+Keywords: temporary email, disposable email, burner email, anonymous inbox, 临时邮箱, 一次性邮箱, 10分钟邮箱, 免费临时邮箱, 验证码邮箱
